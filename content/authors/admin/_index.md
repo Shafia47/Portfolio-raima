@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mst. Shafia Tasnim Raima
+title: Mst. Shafia Tasnim 
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Shafia Tasnim 
-last_name: Raima
+last_name: 
 
 # Status emoji
 status:
@@ -22,16 +22,16 @@ role: Web Developer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Student
-    url: https://www.example.com/
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: shafiatasnim333@gmail.com
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Shafia47
   - icon: brands/linkedin
@@ -47,16 +47,16 @@ education:
    
   - area: HSC
     institution: BAF Shaheen college Dhaka
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2021-12-31
     summary: |
       GPA: 5.00
 
      
   - area: SSC
     institution: BAF Shaheen college Dhaka
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-01-01
+    date_end: 2019-12-31
     summary: |
       GPA: 5.00
       
@@ -120,7 +120,7 @@ languages:
     percent: 100
   - name: Bangla
     percent: 100
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -136,7 +136,7 @@ awards:
     summary: |
       CREST Awards is the British Science Association’s flagship programme for young people, providing science enrichment activities to inspire and engage 3-to-19-year olds. It is a nationally recognised scheme for student-led project work in the STEM subjects (science, technology, engineering and maths). CREST Awards has its own website: www.crestawards.org where you can find more detailed information including how to apply. CREST gives young people aged 3–19 the chance to choose their own subject and methodology when completing their hands-on investigation.
   - title: My Million Dollar Idea -> 2nd Position
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: 
     date: '2023-07-01'
     awarder: edX
     icon: edx
@@ -144,8 +144,8 @@ awards:
  
  
   - title: United Kingdom’s Youth STEM Awards
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+    url: 
+    certificate_url: 
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
@@ -155,18 +155,45 @@ awards:
   - title: Front-End-Projects
 
     url: https://github.com/Shafia47/Front-End-Projects.git
-    certificate_url: https://www.datacamp.com
+    certificate_url: https://github.com/Shafia47/Front-End-Projects.git
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
     
-  - title: Free Code Camp Project
+  - title: Free Code Camp Project 1
+
+    url: https://github.com/Shafia47/freecode1.git
+    certificate_url: https://github.com/Shafia47/freecode1.git
+    date: '2023-01-21'
+    awarder: 
+    icon: datacamp        
+  - title: Free Code Camp Project 2
 
     url: https://github.com/Shafia47/freecode2.git
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp        
+    certificate_url: https://github.com/Shafia47/freecode2.git
+    date: '2024-01-21'
+    awarder: 
+    icon: datacamp
+  - title: Free Code Camp Project 3
 
+    url: https://github.com/Shafia47/freecode3.git
+    certificate_url: https://github.com/Shafia47/freecode3.git
+    date: '2023-01-21'
+    awarder: 
+    icon: datacamp  
+  - title: Free Code Camp Project 4
+
+    url: https://github.com/Shafia47/freecode4.git
+    certificate_url: https://github.com/Shafia47/freecode4.git
+    date: '2023-01-21'
+    awarder: 
+    icon: datacamp
+  - title: Free Code Camp Project 5
+
+    url: https://github.com/Shafia47/freecode5.git
+    certificate_url: https://github.com/Shafia47/freecode5.git
+    date: '2023-01-21'
+    awarder: 
+    icon: datacamp
 ---
 I’m a Computer Science student at Jahangirnagar University, passionate about robotics and AI. I enjoy solving problems and exploring new technologies to build practical solutions

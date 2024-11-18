@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: https://github.com/BlackBoxJU50/cv/blob/main/resume.pdf
+        url: https://drive.google.com/file/d/1eyYvw-1fguo9JfmQpsb3CkPWDhN1qkTk/view?usp=drive_link
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -39,7 +39,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Projects & Awarrds
+      title: Projects & Awards
       username: admin
   - block: languages
     content:
