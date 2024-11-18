@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mst. Shafia Tasnim Raima
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shafia Tasnim 
+last_name: Raima
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Web Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Student
     url: https://www.example.com/
 
 # Social network links
@@ -33,67 +33,49 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Shafia47
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: BSc in Computer Science & Engineering
+    institution: Jahangirnagar University
+    date_start: 2022-01-01
+    date_end: 
+   
+  - area: HSC
+    institution: BAF Shaheen college Dhaka
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 5.00
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+     
+  - area: SSC
+    institution: BAF Shaheen college Dhaka
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 5.00
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Memebr Of JU CSE Robotics Club
+    company_name: JU CSE
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    
+  - position: Volunteer at NCPC
+    company_name: JU CSE
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-01-01
+    date_end: 
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -104,11 +86,15 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: C++
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: HTML
+        description: ''
+        percent: 40
+        icon: devicon/pytorch
+      - name: Node.Js
         description: ''
         percent: 40
         icon: devicon/pytorch
@@ -132,8 +118,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: Bangla
+    percent: 100
   - name: Portuguese
     percent: 25
 
@@ -142,31 +128,45 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: CREAST Awards by British Science Association
+    url: 
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+      CREST Awards is the British Science Association’s flagship programme for young people, providing science enrichment activities to inspire and engage 3-to-19-year olds. It is a nationally recognised scheme for student-led project work in the STEM subjects (science, technology, engineering and maths). CREST Awards has its own website: www.crestawards.org where you can find more detailed information including how to apply. CREST gives young people aged 3–19 the chance to choose their own subject and methodology when completing their hands-on investigation.
+  - title: My Million Dollar Idea -> 2nd Position
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
     icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+    
+ 
+ 
+  - title: United Kingdom’s Youth STEM Awards
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+          The Youth STEMM Award (YSA) is a UK-based award that recognizes young people's achievements in Science, Technology, Engineering, Maths, and Medicine (STEMM): Eligibility: Students aged 11–19 can participate  Activities: Students can participate in STEMM-related activities at school, online, or at home  Levels: Students can work towards a Bronze, Silver, or Gold level award
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+  - title: Front-End-Projects
+
+    url: https://github.com/Shafia47/Front-End-Projects.git
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    
+  - title: Free Code Camp Project
+
+    url: https://github.com/Shafia47/freecode2.git
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp        
+
+---
+I’m a Computer Science student at Jahangirnagar University, passionate about robotics and AI. I enjoy solving problems and exploring new technologies to build practical solutions
